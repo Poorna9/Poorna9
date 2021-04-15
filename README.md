@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on MERN Stack Development
 - 📫 How to reach me 
      Linkedin : https://www.linkedin.com/in/poorna-thippavarapu-873a73160/
+     ,
      gmail : poornathippavarapu@gmail.com
 -
 Poorna9/Poorna9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
